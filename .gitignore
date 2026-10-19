@@ -11,3 +11,6 @@ wheels/
 
 #os-specific
 .DS_Store
+
+#pycharm
+.idea/
